@@ -103,6 +103,10 @@ Sprite image and sound file obtained from this webside:
 I have tested my code on:
 - Raspberry Pi Pico W together with Raspberry Pi 5
 
+<p float="left">
+ <img src="resource/demo_video.gif" width="400">
+</p>
+
 ## :coffee: Buy Me a Coffee
 If you appreciate my work, do support me by...<br>
 <a href="https://www.buymeacoffee.com/chanlhock" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
