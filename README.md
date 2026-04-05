@@ -103,17 +103,7 @@ Sprite image and sound file obtained from this webside:
 I have tested my code on:
 - Raspberry Pi Pico W together with Raspberry Pi 5
 
-<p float="left">
- <img src="resource/demo_video.mp4" width="400">
-</p>
-
-<video src="https://github.com/chanlhock/Space-Invader-with-Pi-Pico-W-Bluetooth-Joystick/blob/6bfe1ee3ed6d197613fb68d67e95f5383c2bd8cd/resource/demo_video.mp4" width="600">
-  Your browser does not support the video tag.
-</video>
-<video src="resources/demo_video.mp4" controls="controls" style="max-width: 100%;">
-</video>
-[![Watch the video](resource/Space_Invader_BT_Joystick_logo.jpg)](resource/demo_video.mp4)
-
+https://github.com/user-attachments/assets/d868a1be-3dd3-4ba3-a6fc-a5a218ba0cf3
 
 ## :coffee: Buy Me a Coffee
 If you appreciate my work, do support me by...<br>
