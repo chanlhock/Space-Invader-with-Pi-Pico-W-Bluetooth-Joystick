@@ -104,7 +104,7 @@ I have tested my code on:
 - Raspberry Pi Pico W together with Raspberry Pi 5
 
 <p float="left">
- <img src="resource/demo_video.gif" width="400">
+ <img src="resource/demo_video.mp4" width="400">
 </p>
 
 ## :coffee: Buy Me a Coffee
