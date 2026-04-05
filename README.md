@@ -106,7 +106,10 @@ I have tested my code on:
 <p float="left">
  <img src="resource/demo_video.mp4" width="400">
 </p>
-https://github.com/chanlhock/Space-Invader-with-Pi-Pico-W-Bluetooth-Joystick/blob/6bfe1ee3ed6d197613fb68d67e95f5383c2bd8cd/resource/demo_video.mp4
+
+<video src="https://github.com/chanlhock/Space-Invader-with-Pi-Pico-W-Bluetooth-Joystick/blob/6bfe1ee3ed6d197613fb68d67e95f5383c2bd8cd/resource/demo_video.mp4" width="600">
+  Your browser does not support the video tag.
+</video>
 
 
 ## :coffee: Buy Me a Coffee
