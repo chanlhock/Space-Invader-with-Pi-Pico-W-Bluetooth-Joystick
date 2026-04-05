@@ -110,6 +110,8 @@ I have tested my code on:
 <video src="https://github.com/chanlhock/Space-Invader-with-Pi-Pico-W-Bluetooth-Joystick/blob/6bfe1ee3ed6d197613fb68d67e95f5383c2bd8cd/resource/demo_video.mp4" width="600">
   Your browser does not support the video tag.
 </video>
+<video src="resources/demo_video.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 
 ## :coffee: Buy Me a Coffee
