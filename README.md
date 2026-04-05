@@ -115,7 +115,7 @@ which include larger works using a licensed work, under the same
 license. Copyright and license notices must be preserved. Contributors  
 provide an express grant of patent rights.
 ```
-See the [GNU General Public License](LICENSE.txt) for more details.
+See the [GNU General Public License](LICENSE) for more details.
 
 ## :speech_balloon: Feedback and Suggestions
 For any feedback or suggestions, feel free to contact me via email:\
