@@ -112,6 +112,7 @@ I have tested my code on:
 </video>
 <video src="resources/demo_video.mp4" controls="controls" style="max-width: 100%;">
 </video>
+[![Watch the video](resources/thumbnail.png)](resource/demo_video.mp4)
 
 
 ## :coffee: Buy Me a Coffee
