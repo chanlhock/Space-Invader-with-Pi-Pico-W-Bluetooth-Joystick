@@ -97,7 +97,7 @@ On Raspberry Pi Pico W, there would be Micropython code that:
 Generate Micropython code solution for both Raspberry Pi 5 and Raspberry Pi Pico W. Please add appropriate comments in the generated code for readability and ease of understanding.
 ~~~~
 Sprite image and sound file obtained from this webside:
-<a href="https://joecode22.itch.io/space-invaders"></a>
+(https://joecode22.itch.io/space-invaders)
     
 ## :iphone: Platform tested:
 I have tested my code on:
