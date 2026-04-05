@@ -106,6 +106,8 @@ I have tested my code on:
 <p float="left">
  <img src="resource/demo_video.mp4" width="400">
 </p>
+https://github.com/chanlhock/Space-Invader-with-Pi-Pico-W-Bluetooth-Joystick/blob/6bfe1ee3ed6d197613fb68d67e95f5383c2bd8cd/resource/demo_video.mp4
+
 
 ## :coffee: Buy Me a Coffee
 If you appreciate my work, do support me by...<br>
