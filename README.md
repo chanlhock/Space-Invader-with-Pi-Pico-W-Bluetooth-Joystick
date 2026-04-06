@@ -10,6 +10,7 @@
 - [Development Platform](#computer-development-platform)
 - [Software Development](#floppy_disk-software-development)
 - [Platform Tested](#iphone-platform-tested)
+- [Screenshots](#film_strip-screenshots)
 - [Buy Me a Coffee](#coffee-buy-me-a-coffee)
 - [License](#page_with_curl-license)
 - [Feedback and Suggestions](#speech_balloon-feedback-and-suggestions)
@@ -104,6 +105,17 @@ I have tested my code on:
 - Raspberry Pi Pico W together with Raspberry Pi 5
 
 https://github.com/user-attachments/assets/d868a1be-3dd3-4ba3-a6fc-a5a218ba0cf3
+
+## :film_strip: Screenshots
+<p float="left">
+  <img src="resource/space_invaders_spash_screen.png" width="300" />
+</p>
+<p float="left">
+  <img src="resource/space_invaders_live_screen.png" width="300" /> 
+</p>
+<p float="left">
+  <img src="resource/space_invaders_game_over.png" width="300" /> 
+</p>
 
 ## :coffee: Buy Me a Coffee
 If you appreciate my work, do support me by...<br>
