@@ -98,10 +98,12 @@ On Raspberry Pi Pico W, there would be Micropython code that:
 - GP13 -> button (joystick)
 - communicate with Raspberry Pi 5 through Bluetooth.
 - Read the joystick data and transfer data to Raspberry Pi 5.
-- OLED SSD1306 4 lines displays: first line (button pressed status), second line joystick x and third line joystick y axis
+- OLED SSD1306 4 lines displays: 
+  first line (button pressed status), second line joystick x and third line joystick y axis
 - Sound effect every time the missile hits the invaders.
 
-Generate Micropython code solution for both Raspberry Pi 5 and Raspberry Pi Pico W. Please add appropriate comments in the generated code for readability and ease of understanding.
+Generate Micropython code solution for both Raspberry Pi 5 and Raspberry Pi Pico W. 
+Please add appropriate comments in the generated code for readability and ease of understanding.
 ~~~~
 Sprite image and sound file obtained from this webside:
 (https://joecode22.itch.io/space-invaders)
