@@ -7,7 +7,7 @@
 
 <p align="center">
 To accomplish great things, we must dream as well as act.<br>
-\t &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- Anatole France
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- Anatole France
 </p>
 
 ## Table of Contents
