@@ -5,6 +5,10 @@
  <img src="resource/Space_Invader_BT_Joystick_logo.jpg" width="200">
 </p>
 
+To accomplish great things, we must dream
+as well as act. 
+- Anatole France Anatole France
+
 ## Table of Contents
 - [Description](#scroll-description)
 - [Development Platform](#computer-development-platform)
