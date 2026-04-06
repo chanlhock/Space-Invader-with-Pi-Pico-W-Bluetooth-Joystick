@@ -6,9 +6,8 @@
 </p>
 
 <div align="center">
-To accomplish great things, we must dream
-as well as act. </div>
-<div align="right">
+> To accomplish great things, we must dream
+as well as act. 
                         - Anatole France
 </div>
 
