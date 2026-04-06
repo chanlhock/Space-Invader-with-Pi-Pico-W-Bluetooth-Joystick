@@ -8,7 +8,7 @@
 <div align="center">
 To accomplish great things, we must dream
 as well as act. <br>
-           - Anatole France Anatole France
+                        - Anatole France
 </div>
 
 ## Table of Contents
