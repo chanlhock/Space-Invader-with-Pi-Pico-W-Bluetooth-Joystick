@@ -77,7 +77,8 @@ The Raspberry Pi 5 with run Micropython code that :
 - communicates with Raspberry Pi Pico W through Bluetooth. 
 - Add a splash screen when the game starts that displays the title "Space Invaders using Bluetooth Joystick" in the middle of the screen in large characters (red character with yellow border) and play the space invader sound.
 - The Bluetooth connection to Pi Pico should be complete before exiting the splash screen.
-- run a space invaders game in a 800x600 dialog window. Can use pygame library to create the game.
+- run a space invaders game in a 800x600 dialog window. 
+  Can use pygame library to create the game.
 - Takes in the joystick data that is transmitted through Bluetooth from Raspberry Pi Pico W connected to a joystick.
 - User can use the joystick data and map to 800x600 dialog window and control the space invaders game.
 - Joystick Button pressed at Raspberry Pi Pico W means release missile to shoot invaders
