@@ -27,6 +27,7 @@ At the Raspberry Pi Pico W:
 3. Open Thonny and upload all the files in the repository folder DeepSeek/Pi Pico W Joystick onto Raspberry Pi Pico W. Program is using MicroPython.
 4. Open the file Pico_W_Joystick_Bluetooth.py
 5. Run Pico_W_Joystick_Bluetooth.py. The following output will be displayed in the Thonny run window.
+   Note: You can rename Pico_W_Joystick_Bluetooth.py to main.py so that the program will automatically run when Raspberry Pi Pico W power up.
 ~~~~
 MPY: soft reboot
 Initializing BLE...
