@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-***"To accomplish great things, we must dream as well as act."*** 
+_To accomplish great things, we must dream as well as act._
 
 \- Anatole France
 </p>
