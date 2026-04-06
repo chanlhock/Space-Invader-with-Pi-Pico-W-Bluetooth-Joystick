@@ -75,7 +75,8 @@ I have two systems, one in Raspberry Pi 5 and the other in Raspberry Pi Pico W.
 On Raspberry Pi 5 I would like the Micropython code to run on Thonny. 
 The Raspberry Pi 5 with run Micropython code that :
 - communicates with Raspberry Pi Pico W through Bluetooth. 
-- Add a splash screen when the game starts that displays the title "Space Invaders using Bluetooth Joystick" in the middle of the screen in large characters (red character with yellow border) and play the space invader sound.
+- Add a splash screen when the game starts that displays the title "Space Invaders using Bluetooth Joystick" 
+  in the middle of the screen in large characters (red character with yellow border) and play the space invader sound.
 - The Bluetooth connection to Pi Pico should be complete before exiting the splash screen.
 - run a space invaders game in a 800x600 dialog window. 
   Can use pygame library to create the game.
@@ -85,7 +86,8 @@ The Raspberry Pi 5 with run Micropython code that :
 - Use  the invader sprite with a sprite in the file "spacesprite.png" in the game folder.
 - Use the player sprite with a sprite in the file "ship.png" in the game folder. 
 - Play from "music.mp3" file in the game folder when the splash screen starts.
-- After attempting 3 times cannot connect to Pi Pico W then will allow user to use keyboard to play the game. Make sure that both joystick mode and keyboard mode, the left and right movement of the player is smooth.
+- After attempting 3 times cannot connect to Pi Pico W then will allow user to use keyboard to play the game. 
+  Make sure that both joystick mode and keyboard mode, the left and right movement of the player is smooth.
 
 On Raspberry Pi Pico W, there would be Micropython code that:
 - pin assigned below:
