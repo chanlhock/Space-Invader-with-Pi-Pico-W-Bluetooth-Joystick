@@ -108,13 +108,13 @@ https://github.com/user-attachments/assets/d868a1be-3dd3-4ba3-a6fc-a5a218ba0cf3
 
 ## :film_strip: Screenshots
 <p float="left">
-  <img src="resource/space_invaders_spash_screen.png" width="300" />
+  <img src="resource/space_invaders_spash_screen.png" width="600" />
 </p>
 <p float="left">
-  <img src="resource/space_invaders_live_screen.png" width="300" /> 
+  <img src="resource/space_invaders_live_screen.png" width="600" /> 
 </p>
 <p float="left">
-  <img src="resource/space_invaders_game_over.png" width="300" /> 
+  <img src="resource/space_invaders_game_over.png" width="600" /> 
 </p>
 
 ## :coffee: Buy Me a Coffee
