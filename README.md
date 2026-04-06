@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-To accomplish great things, we must dream as well as act.<br>
+<i>To accomplish great things, we must dream as well as act.</i><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
