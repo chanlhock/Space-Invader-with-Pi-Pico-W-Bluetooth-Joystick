@@ -7,7 +7,7 @@
 
 <div align="center">
 To accomplish great things, we must dream
-as well as act. \
+as well as act. <br>
            - Anatole France Anatole France
 </div>
 
