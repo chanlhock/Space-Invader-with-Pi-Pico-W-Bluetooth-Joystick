@@ -5,7 +5,7 @@
  <img src="resource/Space_Invader_BT_Joystick_logo.jpg" width="200">
 </p>
 
-<p style="text-align:center;">
+<p align="center">
 To accomplish great things, we must dream as well as act. - Anatole France
 </p>
 
