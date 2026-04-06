@@ -8,7 +8,7 @@
 
 > To accomplish great things, we must dream
 as well as act. 
-                        - Anatole France
+> - Anatole France
 
 ## Table of Contents
 - [Description](#scroll-description)
