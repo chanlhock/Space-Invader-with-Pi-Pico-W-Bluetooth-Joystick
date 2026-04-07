@@ -1,7 +1,7 @@
 
 # :mouse: Welcome to Space Invaders with Pi Pico W Bluetooth Joystick 
 
-<p float="left">
+<p align="center">
  <img src="resource/Space_Invader_BT_Joystick_logo.jpg" width="200">
 </p>
 
